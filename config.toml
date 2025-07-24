@@ -1,0 +1,14 @@
+theme = "autumn"
+
+[editor]
+bufferline = "always"
+completion-timeout= 100
+completion-trigger-len = 4
+default-yank-register = "+"
+idle-timeout = 100
+mouse = false
+shell = ["pwsh", "-c"]
+
+[editor.file-picker]
+hidden = false
+
